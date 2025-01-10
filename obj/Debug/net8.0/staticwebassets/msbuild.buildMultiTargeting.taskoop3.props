@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\taskoop3.props" />
+</Project>
